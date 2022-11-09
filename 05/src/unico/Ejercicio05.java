@@ -7,6 +7,12 @@ public class Ejercicio05 {
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);
 
+/* Desarrollar un programa que solicite los valores mínimo y máximo de un rango.
+ *  A continuación, solicitará por teclado un valor que debe estar dentro del rango.
+ *  Si no es asi, volverá a solicitar un número, y así repetidas veces hasta
+ *  que el valor esté dentro del rango.
+ */
+
 		int min;
 		int max;
 		int num;
